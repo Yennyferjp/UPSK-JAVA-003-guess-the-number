@@ -33,10 +33,6 @@ El uso de clases abstractas e interfaces ayuda a abstraer detalles internos y pr
 
 Se utiliza el encapsulamiento al declarar atributos como `private` y proporcionar métodos públicos (`getGuesses()`, `makeGuess()`) para acceder y manipular esos atributos de manera controlada.
 
-### 5. Polimorfismo
-
-El polimorfismo se manifiesta al tratar diferentes tipos de jugadores de manera uniforme a través de la interfaz `GuessingGame`. Esto permite a la clase principal (`GuessTheNumberGame`) interactuar con jugadores de manera genérica, independientemente de su tipo específico.
-
 ![GUESS THE NUMBER DEMO](https://firebasestorage.googleapis.com/v0/b/laboratoria-945ea.appspot.com/o/guess-the-number-demo.gif?alt=media)
 
 ## 3. Instrucciones de Ejecución
