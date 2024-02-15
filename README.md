@@ -27,7 +27,7 @@ El concepto de herencia se emplea al tener una clase base llamada `Player` de la
 
 ### 3. Abstracción
 
-El uso de clases abstractas e interfaces ayuda a abstraer detalles internos y proporcionar una representación simplificada de conceptos en el juego. Por ejemplo, la interfaz `GuessingGame` abstrae la lógica del juego de adivinanzas, permitiendo que las clases concretas la implementen de manera específica.
+El uso de clases abstractas e interfaces ayuda a abstraer detalles internos y proporcionar una representación simplificada de conceptos en el juego. Por ejemplo, la interfaz `Player` abstrae la lógica del juego de adivinanzas, permitiendo que las clases concretas la implementen de manera específica.
 
 ### 4. Encapsulamiento
 
